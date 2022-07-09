@@ -6,11 +6,11 @@
 
     <groupId>net.deechael</groupId>
     <artifactId>Useless</artifactId>
-    <version>1.01.0</version>
+    <version>1.02.0</version>
 
     <name>Useless</name>
     <description>A library providing functions, objects etc. that to make coding convenient</description>
-    <url>https://github.com/Ocean-Project/UselessJava</url>
+    <url>https://github.com/DeeChael/UselessAPI</url>
 
     <licenses>
         <license>
@@ -33,9 +33,9 @@
     </developers>
 
     <scm>
-        <connection>https://github.com/Ocean-Project/UselessJava.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:Ocean-Project/UselessJava.git</developerConnection>
-        <url>https://github.com/Ocean-Project/UselessJava</url>
+        <connection>https://github.com/DeeChael/UselessAPI.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:DeeChael/UselessAPI.git</developerConnection>
+        <url>https://github.com/DeeChael/UselessAPI</url>
     </scm>
 
     <properties>
