@@ -7,7 +7,7 @@ public class Obj<O> {
 
     @Getter
     @Setter
-    private final O object;
+    private O object;
 
     public Obj(O object) {
         this.object = object;

@@ -6,7 +6,7 @@
 
     <groupId>net.deechael</groupId>
     <artifactId>Useless</artifactId>
-    <version>1.03.0</version>
+    <version>1.03.1</version>
 
     <name>Useless</name>
     <description>A library providing functions, objects etc. that to make coding convenient</description>

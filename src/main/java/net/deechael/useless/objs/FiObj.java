@@ -7,7 +7,7 @@ public class FiObj<FIR, S, T, FO, FIF> extends FoObj<FIR, S, T, FO> {
 
     @Getter
     @Setter
-    private final FIF fifth;
+    private FIF fifth;
 
     public FiObj(FIR first, S second, T third, FO fourth, FIF fifth) {
         super(first, second, third, fourth);
