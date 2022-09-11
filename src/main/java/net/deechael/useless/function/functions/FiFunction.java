@@ -1,4 +1,4 @@
-package net.deechael.useless.function.Functions;
+package net.deechael.useless.function.functions;
 
 @FunctionalInterface
 public interface FiFunction<FIR, S, T, FO, FIF, R> {
